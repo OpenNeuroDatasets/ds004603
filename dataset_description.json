@@ -8,5 +8,7 @@
         "Naohide Yamamoto (naohide.yamamoto@qut.edu.au)",
         "Hinze Hogendoorn (hinze.hogendoorn@qut.edu.au)",
         "Patrick Johnston (dr.pat.johnston@icloud.com)"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004603.v1.0.0",
+    "License": "CC0"
 }
