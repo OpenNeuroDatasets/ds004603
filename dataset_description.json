@@ -1,0 +1,12 @@
+{
+    "Name": "Visual Attribute-Specific Contextual Trajectory Paradigm",
+    "BIDSVersion": "1.11.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Benjamin Lowe (ben.lowe@mq.edu.au)",
+        "Jonathan Robinson (jonathan.robinson@monash.edu)",
+        "Naohide Yamamoto (naohide.yamamoto@qut.edu.au)",
+        "Hinze Hogendoorn (hinze.hogendoorn@qut.edu.au)",
+        "Patrick Johnston (dr.pat.johnston@icloud.com)"
+    ]
+}
